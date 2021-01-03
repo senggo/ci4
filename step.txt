@@ -1,3 +1,5 @@
-1. Install CodeIgniter 4
-2. Make Template
+1. Read the guide
+2. Install CodeIgniter 4
+3. Download adminLTE 
+4. Make Template
 3. Run
